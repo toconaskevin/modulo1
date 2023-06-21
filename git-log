@@ -1,0 +1,11 @@
+commit 63febc5c42e6e40a7429df94541f3497b89dc934 (HEAD -> development)
+Author: Kevin Toconás <toconaskevin@gmail.com>
+Date:   Wed Jun 21 04:33:37 2023 -0300
+
+    Adding logs of git commits
+
+commit 28289e031a42164d4cd881b146399cefdbd11a08 (origin/development)
+Author: Kevin Toconás <toconaskevin@gmail.com>
+Date:   Wed Jun 21 04:29:50 2023 -0300
+
+    First commit
